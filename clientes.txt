@@ -1,0 +1,4 @@
+1:roberto:hermoso:tomas pulido n12:caceres:caceres:españa:0001:0001:1_Doc:S
+2:juan:fernandez:tomas benito n23:merida:badajoz:españa:0002:0002:2_Doc:S
+3:antonio:pereida:tonton:citi:priv:pasi:ind:elfo:3_Doc:S
+4:as:as:as:as:as:as:as:as:4_Doc:S

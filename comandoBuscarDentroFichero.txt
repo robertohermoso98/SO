@@ -1,0 +1,4 @@
+grep "^roberto" /etc/passwd | cut -f1,3 -d":"
+
+
+el grep busca todo lo que llebe roberto por eso lleva ^ el cut nos corta la salida que es lo que queremos ve
